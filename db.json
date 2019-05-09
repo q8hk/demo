@@ -1,14 +1,3 @@
 {
-  "moe-result": [
-    { "id": 1, "result": "result 1" },
-    { "id": 2, "result": "result 2" },
-    { "id": 3, "result": "result 3" }
-  ],
-  "moe-comment": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "MOE"
-  }
+  "term" : "Term2"
 }
